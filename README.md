@@ -88,7 +88,7 @@ Revolutionary fitness social platform with AI-powered content moderation, Instag
 
 **Stack:** React, React Native, TypeScript, FastAPI, Python, PostgreSQL, AWS
 
-**Status:** 🟡 In Development
+**Status:** 🟢 Early Access Release
 
 ---
 
