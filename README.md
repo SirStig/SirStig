@@ -81,7 +81,7 @@ I transform ideas into powerful digital solutions. Whether it's a custom website
 
 ## 🎯 Featured Projects
 
-### [Project Yoked](https://solutions.ironcoffee.com/portfolio) 🏋️
+### [Project Yoked](https://www.projectyoked.com) 🏋️
 **Fitness Social Platform** | *CEO/Founder of Project Yoked LLC*
 
 Revolutionary fitness social platform with AI-powered content moderation, Instagram-style interactions, comprehensive tracking, personalized analytics, and virtual personal training.
