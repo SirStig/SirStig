@@ -84,18 +84,18 @@ I transform ideas into powerful digital solutions. Whether it's a custom website
 ### [Project Yoked](https://www.projectyoked.com) 🏋️
 **Fitness Social Platform** | *CEO/Founder of Project Yoked LLC*
 
-Revolutionary fitness social platform with AI-powered content moderation, Instagram-style interactions, comprehensive tracking, personalized analytics, and virtual personal training.
+Revolutionary fitness social platform with AI-powered content moderation, Instagram-style interactions, comprehensive tracking, personalized analytics, and virtual personal training. Currently in Early Access with thousands of active users.
 
 **Stack:** React, React Native, TypeScript, FastAPI, Python, PostgreSQL, AWS
 
-**Status:** 🟢 Early Access Release
+**Status:** 🟢 Early Access Release | [Visit Site](https://www.projectyoked.com)
 
 ---
 
 ### [EagleChair Digital Flagship](https://joshua.eaglechair.com/) 🪑
 **Premium E-Commerce Platform**
 
-End-to-end commerce experience for a premium furniture brand. FastAPI backend with JWT auth, async PostgreSQL, Redis caching, and modern React storefront.
+End-to-end commerce experience for a premium furniture brand. Features JWT authentication, async PostgreSQL operations, Redis caching for optimal performance, and a modern React storefront with Tailwind styling.
 
 **Stack:** FastAPI, Python, PostgreSQL, Redis, Next.js, React, TypeScript, Tailwind CSS
 
@@ -106,7 +106,7 @@ End-to-end commerce experience for a premium furniture brand. FastAPI backend wi
 ### [EncodeForge](https://github.com/SirStig/EncodeForge) 🎬
 **Cross-Platform Media Processing Suite**
 
-Hardware-accelerated video encoding, AI-powered subtitle generation with Whisper, and smart metadata-driven file renaming.
+Hardware-accelerated video encoding with AI-powered subtitle generation via OpenAI Whisper, and intelligent metadata-driven file renaming. Built for efficiency and ease of use.
 
 **Stack:** JavaFX, Python, FastAPI, FFmpeg, OpenAI Whisper, PyTorch, Docker
 
@@ -117,7 +117,7 @@ Hardware-accelerated video encoding, AI-powered subtitle generation with Whisper
 ### [YokedCache](https://pypi.org/project/yokedcache/) ⚡
 **High-Performance Python Cache Library**
 
-Intelligent auto-invalidation, multi-backend support, and seamless FastAPI/SQLAlchemy integration. Delivers 60-90% database load reduction and 200-500ms faster response times.
+Intelligent auto-invalidation, multi-backend support, and seamless FastAPI/SQLAlchemy integration. Delivers 60-90% database load reduction and 200-500ms faster response times in production environments.
 
 **Stack:** Python, Redis, FastAPI, SQLAlchemy, Memcached, Prometheus, StatsD
 
@@ -128,12 +128,10 @@ Intelligent auto-invalidation, multi-backend support, and seamless FastAPI/SQLAl
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirStig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirStig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirStig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&rank_icon=github)](https://github.com/SirStig)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=SirStig&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirStig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&langs_count=8)](https://github.com/SirStig?tab=repositories)
 
 </div>
 
